@@ -1,0 +1,38 @@
+body{
+    margin: 0%;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(63, 63, 63);
+    height: 45px;
+}
+header button{
+    background-color: rgb(63, 63, 63);
+    appearance: none;
+    border:none;
+    cursor: pointer;
+    color: grey;
+    font-size: 16px;
+    margin-left: 20px;
+} 
+header button:hover{
+    color: white;
+}
+.contact{
+    color: grey;
+    margin-right: 150px;
+}
+.NavButtons{
+    display: flex;
+    justify-items: center;
+}
+.Logo{
+    padding-top: 2px;
+    height: 37px;
+}
+.LogoBut{
+    margin-left: 100px;
+    width: 60px;
+}

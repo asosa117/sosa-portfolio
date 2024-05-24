@@ -23,7 +23,7 @@ function Contact() {
             <p className='bio'>
               My name is Andrew Sosa. I am a recent college graduate who is looking for software engineering opportunities to
               further my passion of Computer Science. I have been working to improve my skills in both back-nd and frontend development
-              through various projects, school and interships. If you want to get in contact with me click the resume button where my phone number and email are 
+              through various projects, school and internships. If you want to get in contact with me click the resume button where my phone number and email are 
               available. Thank you!
             </p>
             

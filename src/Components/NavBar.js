@@ -13,6 +13,7 @@ function NavBar(){
         navigate("/")
     }
 
+    /*
     const skillsPage = () => {
         navigate("/MySkills")
     }
@@ -20,6 +21,7 @@ function NavBar(){
     const contactPage = () => {
         navigate("/Contact")
     }
+    */
 
     
 
@@ -28,9 +30,17 @@ function NavBar(){
             <button className="LogoBut" type='submit' onClick={homePage}>
                 <img src={logo} className="Logo" alt="Logo" />
             </button>
+            
             <div className='NavButtons'>
-                <button onClick={skillsPage}>Skills & Projects</button>
-                <button onClick={contactPage} class = "contact">Contact</button>
+            <a className="buttonLink" href="https://drive.google.com/file/d/1NM2PJ8nqZdf8tRhxDXFXTKfR7uQhyuJ8/view?usp=sharing" target="_blank">
+                <button>Résumé</button>       
+            </a>
+            <a className="buttonLink" href="https://www.linkedin.com/in/andrew-sosa-aba4a9231/" target="_blank">
+                <button>Linkedin</button> 
+            </a>
+            <a className="buttonLink" href="https://github.com/asosa117" target="_blank">
+                <button>Github</button>      
+            </a>
             </div>
             
         </header>

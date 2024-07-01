@@ -5,28 +5,26 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: rgb(63, 63, 63);
+    background-color: black;
     height: 45px;
 }
 header button{
-    background-color: rgb(63, 63, 63);
+    background-color: black;
     appearance: none;
     border:none;
     cursor: pointer;
-    color: grey;
+    color: white;
     font-size: 16px;
     margin-left: 20px;
 } 
 header button:hover{
-    color: white;
-}
-.contact{
-    color: grey;
-    margin-right: 150px;
+    color: #e99b7e;
 }
 .NavButtons{
-    display: flex;
+    margin-top: .5%;
     justify-items: center;
+    margin-right: 150px;
+    color: white;
 }
 .Logo{
     padding-top: 2px;

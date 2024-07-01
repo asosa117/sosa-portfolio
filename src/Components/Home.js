@@ -124,8 +124,9 @@ function Home() {
                                 2016 – 2023
                             </text>
                             <text className='companies'>
-                                Software Engineer Intern/ Manufacturing Technician • Vector Controls Inc
+                                Software Engineer Intern/ Manufacturing Technician •
                             </text>
+                            <a className='companies' href='http://www.vcinc.com' target="_blank"> Vector Controls Inc {">"}</a>
                         </div>
                         <text className='compDesc'> 
                             Programmed and tested a remote controller with a custom-built PCB and microcontroller 

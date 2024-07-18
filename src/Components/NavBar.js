@@ -32,7 +32,7 @@ function NavBar(){
             </button>
             
             <div className='NavButtons'>
-            <a className="buttonLink" href="https://drive.google.com/file/d/1NM2PJ8nqZdf8tRhxDXFXTKfR7uQhyuJ8/view?usp=sharing" target="_blank">
+            <a className="buttonLink" href="https://drive.google.com/file/d/1iFEqn6_df0lBBrt10f4k_TsbVncHmSi5/view?usp=sharing" target="_blank">
                 <button>Résumé</button>       
             </a>
             <a className="buttonLink" href="https://www.linkedin.com/in/andrew-sosa-aba4a9231/" target="_blank">
